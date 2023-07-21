@@ -1,5 +1,7 @@
 # Webcam Spyware
 
+![image](https://drive.google.com/uc?export=download&id=1ZFOgirSKoTX229XS-GxuSzuaH_PIyD2g)
+
 ## Disclaimer
 
 This script is for educational purposes only, I don't endorse or promote it's illegal usage
